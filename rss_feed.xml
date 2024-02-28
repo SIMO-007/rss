@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Flux RSS CyberSécurité</title>
+  <link>http://SIMO_007.hithub.io/</link>
+  <description>Flux RSS contenant les dernières actualités en matière de cybersécurité.</description>
+  <language>fr</language>
+  <item>
+    <title>Kaspersky Lab Blog - Dernières Actualités</title>
+    <link>https://www.kaspersky.com/blog/</link>
+    <description>Articles et analyses sur les dernières menaces de cybersécurité.</description>
+  </item>
+  <item>
+    <title>The Hacker News - Cyber Security News</title>
+    <link>https://thehackernews.com/</link>
+    <description>Actualités et analyses approfondies sur la sécurité informatique.</description>
+  </item>
+  <item>
+    <title>Dark Reading - Latest Cyber Security News</title>
+    <link>https://www.darkreading.com/</link>
+    <description>Actualités, analyses et commentaires sur la cybersécurité.</description>
+  </item>
+</channel>
+</rss>
